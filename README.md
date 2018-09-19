@@ -12,4 +12,5 @@
 
         http://localhost:8000/article.html
 3. Create article.amp.html which is the same page and article.html
-4. AMP IT UP!
+4. Open http://localhost:8000/article.amp.html#development=1 in chrome
+5. AMP IT UP!
